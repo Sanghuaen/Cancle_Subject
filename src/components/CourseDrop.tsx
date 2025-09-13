@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { useCourseStore } from "../CourseStore";
 
 const CourseDrop = () => {
